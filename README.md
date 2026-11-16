@@ -15,7 +15,7 @@ Run `npm run build`. The production site is generated in `dist/`.
 ## Features
 - Home, About, Menu and Contact sections
 - Responsive black and gold design
-- Food photography and menu category filters
+- Menu category filters
 - Add-to-cart, quantity controls and totals
 - Contact form validation and demo confirmation
 
