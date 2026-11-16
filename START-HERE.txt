@@ -1,0 +1,16 @@
+FOODIEHUB - PLEASE READ
+
+1. To SEE the website directly on your iPhone:
+   Open FoodieHub-Preview.html from the Files app.
+   This is a self-contained HTML preview with CSS and JavaScript built in.
+   It does not require GitHub or Node.js.
+
+2. The react-app folder contains the actual React + Vite source project.
+   Do not try to open react-app/index.html directly from Files; React projects
+   need a development server or hosting service to run.
+
+3. Images are loaded from Unsplash and need internet access. If a photo host
+   does not load on your network, the rest of the page and menu still work.
+
+4. Cart and contact form are frontend demonstrations only. No real payments,
+   restaurant orders, or email messages are sent.
