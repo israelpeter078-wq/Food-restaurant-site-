@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "name": "Jollof Rice & Chicken",
+    "category": "Rice",
+    "price": 4500,
+    "desc": "Smoky Nigerian jollof rice served with seasoned chicken.",
+    "img": "/food/jollof-rice-chicken.svg"
+  },
+  {
+    "id": 2,
+    "name": "Fried Rice",
+    "category": "Rice",
+    "price": 4500,
+    "desc": "Colourful fried rice with mixed vegetables.",
+    "img": "/food/fried-rice.svg"
+  },
+  {
+    "id": 3,
+    "name": "Coconut Rice",
+    "category": "Rice",
+    "price": 4800,
+    "desc": "Fragrant rice cooked with coconut flavour.",
+    "img": "/food/coconut-rice.svg"
+  },
+  {
+    "id": 4,
+    "name": "Ofada Rice",
+    "category": "Rice",
+    "price": 5000,
+    "desc": "Local ofada rice served with pepper sauce.",
+    "img": "/food/ofada-rice.svg"
+  },
+  {
+    "id": 5,
+    "name": "White Rice & Stew",
+    "category": "Rice",
+    "price": 4000,
+    "desc": "Steamed white rice with rich tomato stew.",
+    "img": "/food/white-rice-stew.svg"
+  },
+  {
+    "id": 6,
+    "name": "Eba",
+    "category": "Swallow",
+    "price": 1200,
+    "desc": "Smooth garri swallow, ready for your favourite soup.",
+    "img": "/food/eba.svg"
+  },
+  {
+    "id": 7,
+    "name": "Amala",
+    "category": "Swallow",
+    "price": 1500,
+    "desc": "Soft traditional amala.",
+    "img": "/food/amala.svg"
+  },
+  {
+    "id": 8,
+    "name": "Pounded Yam",
+    "category": "Swallow",
+    "price": 1800,
+    "desc": "Smooth pounded yam served with soup.",
+    "img": "/food/pounded-yam.svg"
+  },
+  {
+    "id": 9,
+    "name": "Fufu",
+    "category": "Swallow",
+    "price": 1500,
+    "desc": "Soft cassava fufu.",
+    "img": "/food/fufu.svg"
+  },
+  {
+    "id": 10,
+    "name": "Semovita",
+    "category": "Swallow",
+    "price": 1500,
+    "desc": "Soft semovita swallow.",
+    "img": "/food/semovita.svg"
+  },
+  {
+    "id": 11,
+    "name": "Egusi Soup",
+    "category": "Soups",
+    "price": 3000,
+    "desc": "Rich melon-seed soup with leafy vegetables.",
+    "img": "/food/egusi-soup.svg"
+  },
+  {
+    "id": 12,
+    "name": "Ogbono Soup",
+    "category": "Soups",
+    "price": 3000,
+    "desc": "Traditional draw soup with a rich texture.",
+    "img": "/food/ogbono-soup.svg"
+  },
+  {
+    "id": 13,
+    "name": "Efo Riro",
+    "category": "Soups",
+    "price": 3200,
+    "desc": "Yoruba-style spinach stew with peppers.",
+    "img": "/food/efo-riro.svg"
+  },
+  {
+    "id": 14,
+    "name": "Vegetable Soup",
+    "category": "Soups",
+    "price": 3000,
+    "desc": "Fresh leafy vegetable soup.",
+    "img": "/food/vegetable-soup.svg"
+  },
+  {
+    "id": 15,
+    "name": "Okra Soup",
+    "category": "Soups",
+    "price": 2800,
+    "desc": "Fresh okra soup with a delicious draw.",
+    "img": "/food/okra-soup.svg"
+  },
+  {
+    "id": 16,
+    "name": "Grilled Fish",
+    "category": "Proteins",
+    "price": 4500,
+    "desc": "Well-seasoned grilled fish.",
+    "img": "/food/grilled-fish.svg"
+  },
+  {
+    "id": 17,
+    "name": "Fried Fish",
+    "category": "Proteins",
+    "price": 3500,
+    "desc": "Crispy fried fish.",
+    "img": "/food/fried-fish.svg"
+  },
+  {
+    "id": 18,
+    "name": "Turkey",
+    "category": "Proteins",
+    "price": 4000,
+    "desc": "Seasoned turkey portion.",
+    "img": "/food/turkey.svg"
+  },
+  {
+    "id": 19,
+    "name": "Beef",
+    "category": "Proteins",
+    "price": 2500,
+    "desc": "Tender seasoned beef.",
+    "img": "/food/beef.svg"
+  },
+  {
+    "id": 20,
+    "name": "Goat Meat",
+    "category": "Proteins",
+    "price": 3500,
+    "desc": "Well-cooked goat meat.",
+    "img": "/food/goat-meat.svg"
+  },
+  {
+    "id": 21,
+    "name": "Meat Pie",
+    "category": "Snacks",
+    "price": 1200,
+    "desc": "Golden pastry filled with savoury meat.",
+    "img": "/food/meat-pie.svg"
+  },
+  {
+    "id": 22,
+    "name": "Sausage Roll",
+    "category": "Snacks",
+    "price": 1000,
+    "desc": "Flaky pastry wrapped around sausage.",
+    "img": "/food/sausage-roll.svg"
+  },
+  {
+    "id": 23,
+    "name": "Puff Puff",
+    "category": "Snacks",
+    "price": 800,
+    "desc": "Soft golden Nigerian puff puff.",
+    "img": "/food/puff-puff.svg"
+  },
+  {
+    "id": 24,
+    "name": "Chicken Pie",
+    "category": "Snacks",
+    "price": 1500,
+    "desc": "Golden pastry with a savoury chicken filling.",
+    "img": "/food/chicken-pie.svg"
+  },
+  {
+    "id": 25,
+    "name": "Chicken Shawarma",
+    "category": "Snacks",
+    "price": 3500,
+    "desc": "Warm wrap filled with chicken and fresh vegetables.",
+    "img": "/food/chicken-shawarma.svg"
+  },
+  {
+    "id": 26,
+    "name": "Zobo",
+    "category": "Drinks",
+    "price": 1000,
+    "desc": "Chilled hibiscus drink.",
+    "img": "/food/zobo.svg"
+  },
+  {
+    "id": 27,
+    "name": "Chapman",
+    "category": "Drinks",
+    "price": 1800,
+    "desc": "Refreshing Nigerian Chapman mocktail.",
+    "img": "/food/chapman.svg"
+  },
+  {
+    "id": 28,
+    "name": "Orange Juice",
+    "category": "Drinks",
+    "price": 1500,
+    "desc": "Fresh orange juice.",
+    "img": "/food/orange-juice.svg"
+  },
+  {
+    "id": 29,
+    "name": "Water",
+    "category": "Drinks",
+    "price": 500,
+    "desc": "Bottled drinking water.",
+    "img": "/food/water.svg"
+  },
+  {
+    "id": 30,
+    "name": "Smoothie",
+    "category": "Drinks",
+    "price": 2200,
+    "desc": "Chilled fruit smoothie.",
+    "img": "/food/smoothie.svg"
+  },
+  {
+    "id": 31,
+    "name": "Pancakes",
+    "category": "Breakfast",
+    "price": 2000,
+    "desc": "Soft pancakes for a lovely breakfast.",
+    "img": "/food/pancakes.svg"
+  },
+  {
+    "id": 32,
+    "name": "Toast",
+    "category": "Breakfast",
+    "price": 1200,
+    "desc": "Golden toasted bread.",
+    "img": "/food/toast.svg"
+  },
+  {
+    "id": 33,
+    "name": "Omelette",
+    "category": "Breakfast",
+    "price": 1800,
+    "desc": "Freshly prepared egg omelette.",
+    "img": "/food/omelette.svg"
+  },
+  {
+    "id": 34,
+    "name": "Akara",
+    "category": "Breakfast",
+    "price": 1200,
+    "desc": "Crispy Nigerian bean cakes.",
+    "img": "/food/akara.svg"
+  },
+  {
+    "id": 35,
+    "name": "Pap",
+    "category": "Breakfast",
+    "price": 1000,
+    "desc": "Smooth traditional corn pap.",
+    "img": "/food/pap.svg"
+  },
+  {
+    "id": 36,
+    "name": "Grilled Chicken Bowl",
+    "category": "Bowls",
+    "price": 5200,
+    "desc": "Juicy grilled chicken with rice and fresh vegetables.",
+    "img": "/food/grilled-chicken-bowl.svg"
+  },
+  {
+    "id": 37,
+    "name": "Classic Beef Burger",
+    "category": "Burgers",
+    "price": 4800,
+    "desc": "A satisfying burger with fresh greens and house sauce.",
+    "img": "/food/classic-beef-burger.svg"
+  },
+  {
+    "id": 38,
+    "name": "Creamy Pasta",
+    "category": "Pasta",
+    "price": 5000,
+    "desc": "Comforting pasta tossed in a creamy sauce.",
+    "img": "/food/creamy-pasta.svg"
+  },
+  {
+    "id": 39,
+    "name": "Pepperoni Pizza",
+    "category": "Pizza",
+    "price": 6500,
+    "desc": "Golden crust with tomato sauce and toppings.",
+    "img": "/food/pepperoni-pizza.svg"
+  },
+  {
+    "id": 40,
+    "name": "Fresh Garden Salad",
+    "category": "Bowls",
+    "price": 3500,
+    "desc": "Crisp greens, colourful vegetables and dressing.",
+    "img": "/food/fresh-garden-salad.svg"
+  }
+]
