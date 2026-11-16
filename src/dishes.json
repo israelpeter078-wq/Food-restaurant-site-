@@ -5,7 +5,7 @@
     "category": "Rice",
     "price": 4500,
     "desc": "Smoky Nigerian jollof rice served with seasoned chicken.",
-    "img": "/food/jollof-rice-chicken.svg"
+    "img": "https://images.unsplash.com/photo-1516684732162-798a0062be99?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "category": "Rice",
     "price": 4500,
     "desc": "Colourful fried rice with mixed vegetables.",
-    "img": "/food/fried-rice.svg"
+    "img": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "category": "Rice",
     "price": 4800,
     "desc": "Fragrant rice cooked with coconut flavour.",
-    "img": "/food/coconut-rice.svg"
+    "img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "category": "Rice",
     "price": 5000,
     "desc": "Local ofada rice served with pepper sauce.",
-    "img": "/food/ofada-rice.svg"
+    "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "category": "Rice",
     "price": 4000,
     "desc": "Steamed white rice with rich tomato stew.",
-    "img": "/food/white-rice-stew.svg"
+    "img": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "category": "Swallow",
     "price": 1200,
     "desc": "Smooth garri swallow, ready for your favourite soup.",
-    "img": "/food/eba.svg"
+    "img": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "category": "Swallow",
     "price": 1500,
     "desc": "Soft traditional amala.",
-    "img": "/food/amala.svg"
+    "img": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "category": "Swallow",
     "price": 1800,
     "desc": "Smooth pounded yam served with soup.",
-    "img": "/food/pounded-yam.svg"
+    "img": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "category": "Swallow",
     "price": 1500,
     "desc": "Soft cassava fufu.",
-    "img": "/food/fufu.svg"
+    "img": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "category": "Swallow",
     "price": 1500,
     "desc": "Soft semovita swallow.",
-    "img": "/food/semovita.svg"
+    "img": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "category": "Soups",
     "price": 3000,
     "desc": "Rich melon-seed soup with leafy vegetables.",
-    "img": "/food/egusi-soup.svg"
+    "img": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "category": "Soups",
     "price": 3000,
     "desc": "Traditional draw soup with a rich texture.",
-    "img": "/food/ogbono-soup.svg"
+    "img": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "category": "Soups",
     "price": 3200,
     "desc": "Yoruba-style spinach stew with peppers.",
-    "img": "/food/efo-riro.svg"
+    "img": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "category": "Soups",
     "price": 3000,
     "desc": "Fresh leafy vegetable soup.",
-    "img": "/food/vegetable-soup.svg"
+    "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "category": "Soups",
     "price": 2800,
     "desc": "Fresh okra soup with a delicious draw.",
-    "img": "/food/okra-soup.svg"
+    "img": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "category": "Proteins",
     "price": 4500,
     "desc": "Well-seasoned grilled fish.",
-    "img": "/food/grilled-fish.svg"
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "category": "Proteins",
     "price": 3500,
     "desc": "Crispy fried fish.",
-    "img": "/food/fried-fish.svg"
+    "img": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "category": "Proteins",
     "price": 4000,
     "desc": "Seasoned turkey portion.",
-    "img": "/food/turkey.svg"
+    "img": "https://images.unsplash.com/photo-1534939561126-855b8675edd7?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "category": "Proteins",
     "price": 2500,
     "desc": "Tender seasoned beef.",
-    "img": "/food/beef.svg"
+    "img": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "category": "Proteins",
     "price": 3500,
     "desc": "Well-cooked goat meat.",
-    "img": "/food/goat-meat.svg"
+    "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 21,
@@ -165,7 +165,7 @@
     "category": "Snacks",
     "price": 1200,
     "desc": "Golden pastry filled with savoury meat.",
-    "img": "/food/meat-pie.svg"
+    "img": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 22,
@@ -173,7 +173,7 @@
     "category": "Snacks",
     "price": 1000,
     "desc": "Flaky pastry wrapped around sausage.",
-    "img": "/food/sausage-roll.svg"
+    "img": "https://images.unsplash.com/photo-1608198093002-ad4e00548490?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "category": "Snacks",
     "price": 800,
     "desc": "Soft golden Nigerian puff puff.",
-    "img": "/food/puff-puff.svg"
+    "img": "https://images.unsplash.com/photo-1551024506-0beca6afe42d?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@
     "category": "Snacks",
     "price": 1500,
     "desc": "Golden pastry with a savoury chicken filling.",
-    "img": "/food/chicken-pie.svg"
+    "img": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 25,
@@ -197,7 +197,7 @@
     "category": "Snacks",
     "price": 3500,
     "desc": "Warm wrap filled with chicken and fresh vegetables.",
-    "img": "/food/chicken-shawarma.svg"
+    "img": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@
     "category": "Drinks",
     "price": 1000,
     "desc": "Chilled hibiscus drink.",
-    "img": "/food/zobo.svg"
+    "img": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@
     "category": "Drinks",
     "price": 1800,
     "desc": "Refreshing Nigerian Chapman mocktail.",
-    "img": "/food/chapman.svg"
+    "img": "https://images.unsplash.com/photo-1513558161293-cdaf765edfd4?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 28,
@@ -221,7 +221,7 @@
     "category": "Drinks",
     "price": 1500,
     "desc": "Fresh orange juice.",
-    "img": "/food/orange-juice.svg"
+    "img": "https://images.unsplash.com/photo-1546173159-315724a31696?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@
     "category": "Drinks",
     "price": 500,
     "desc": "Bottled drinking water.",
-    "img": "/food/water.svg"
+    "img": "https://images.unsplash.com/photo-1543255006-d6395b6f1171?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 30,
@@ -237,7 +237,7 @@
     "category": "Drinks",
     "price": 2200,
     "desc": "Chilled fruit smoothie.",
-    "img": "/food/smoothie.svg"
+    "img": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 31,
@@ -245,7 +245,7 @@
     "category": "Breakfast",
     "price": 2000,
     "desc": "Soft pancakes for a lovely breakfast.",
-    "img": "/food/pancakes.svg"
+    "img": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 32,
@@ -253,7 +253,7 @@
     "category": "Breakfast",
     "price": 1200,
     "desc": "Golden toasted bread.",
-    "img": "/food/toast.svg"
+    "img": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 33,
@@ -261,7 +261,7 @@
     "category": "Breakfast",
     "price": 1800,
     "desc": "Freshly prepared egg omelette.",
-    "img": "/food/omelette.svg"
+    "img": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 34,
@@ -269,7 +269,7 @@
     "category": "Breakfast",
     "price": 1200,
     "desc": "Crispy Nigerian bean cakes.",
-    "img": "/food/akara.svg"
+    "img": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 35,
@@ -277,7 +277,7 @@
     "category": "Breakfast",
     "price": 1000,
     "desc": "Smooth traditional corn pap.",
-    "img": "/food/pap.svg"
+    "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "category": "Bowls",
     "price": 5200,
     "desc": "Juicy grilled chicken with rice and fresh vegetables.",
-    "img": "/food/grilled-chicken-bowl.svg"
+    "img": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 37,
@@ -293,7 +293,7 @@
     "category": "Burgers",
     "price": 4800,
     "desc": "A satisfying burger with fresh greens and house sauce.",
-    "img": "/food/classic-beef-burger.svg"
+    "img": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@
     "category": "Pasta",
     "price": 5000,
     "desc": "Comforting pasta tossed in a creamy sauce.",
-    "img": "/food/creamy-pasta.svg"
+    "img": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@
     "category": "Pizza",
     "price": 6500,
     "desc": "Golden crust with tomato sauce and toppings.",
-    "img": "/food/pepperoni-pizza.svg"
+    "img": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 40,
@@ -317,6 +317,6 @@
     "category": "Bowls",
     "price": 3500,
     "desc": "Crisp greens, colourful vegetables and dressing.",
-    "img": "/food/fresh-garden-salad.svg"
+    "img": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=900&q=85"
   }
 ]
